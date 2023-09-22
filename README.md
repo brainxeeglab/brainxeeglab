@@ -1,7 +1,7 @@
 - 👋 Hi, We are exploring brain @brainxeeglab
 - 👀 We are doing EEG/fMRI studies related to human perception, learning, memory, consciousness.
-- 🌱 We are constanly learning/developting tools for exploring brain.
-- 💞️ We are open to colloboration 
+- 🌱 We are constanly learning/developing computational tools for exploring brain.
+- 💞️ We are open to any colloboration 
 - 📫 Please feel free to reach us at brainxeeglab@gmail.com ...
 
 <!---
